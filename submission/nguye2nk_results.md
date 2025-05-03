@@ -4,7 +4,7 @@
 
 ![pyspark install](../img/pyspark_install.png)
 
-![jupyter notebook](../img/jupyter_notetbook.png.png)
+![jupyter notebook](../img/jupyter_notetbook.png)
 
 ## Question 2
 
